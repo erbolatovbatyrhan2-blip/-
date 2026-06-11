@@ -1,0 +1,14 @@
+{
+  "qqq": {
+    "password_hash": "0e5b5bec335b986582089d16c94b0ca808fc12d4212d7d4e83360249088a1396",
+    "balance": 9999984445.0,
+    "blocked": false,
+    "failed_attempts": 0
+  },
+  "eee": {
+    "password_hash": "69ad7c2360473ad1be9d2f592fd0e3f0f842359274fcf9231c7582a8a47c1273",
+    "balance": 14444.0,
+    "blocked": false,
+    "failed_attempts": 0
+  }
+}
